@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abhijeetkank
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ... Web devellopment
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 abhijeetkank47@gmail.com
